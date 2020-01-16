@@ -16,3 +16,5 @@ Files:
     * [Chiclet Slicer](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380756?tab=Overview)
     * [Enlighten Data Story](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380950?tab=Overview)
     * [Simple Image](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381835?tab=Overview)
+  * Bookmarks to Adjust Visibility
+    * Special thank you to [Victor Rocca's Blog](http://www.victorrocca.com/using-bookmarks-to-show-hide-information-in-your-power-bi-report/), which detailed methods to adjust visual visibility using bookmarks.
