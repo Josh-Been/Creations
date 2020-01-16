@@ -6,4 +6,4 @@ Live Power BI Database: https://sites.baylor.edu/creations/
 Files:
 
 * [Raw Data](https://baylor0.sharepoint.com/sites/CreationsDigitalDisplay/Shared%20Documents/General/Creations-visualization.xlsx?web=1)
-* [Power BI Project File] (https://josh-been.github.io/Creations/creationstest-2019.pbix)
+* [Power BI Project File](https://josh-been.github.io/Creations/creationstest-2019.pbix)
