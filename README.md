@@ -14,5 +14,5 @@ Files:
   * Microsoft Marketplace Visuals
     * [Cluster Map](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380806?tab=Overview)
     * [Chiclet Slicer](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380756?tab=Overview)
-    [Enlighten Data Story](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380950?tab=Overview)
+    * [Enlighten Data Story](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380950?tab=Overview)
     * [Simple Image](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381835?tab=Overview)
