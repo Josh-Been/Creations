@@ -11,3 +11,5 @@ Files:
 3rd Party Tools Used
 
 * [Microsoft Power BI](https://powerbi.microsoft.com/)
+  * Microsoft Marketplace Visuals
+    * [Cluster Map](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380806?tab=Overview)
