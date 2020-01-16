@@ -1,7 +1,7 @@
 # Creations
 A compilation of Baylor University faculty's most cherished scholarship, from 2018 to current. A call goes out to faculty every January asking for citations from their scholarship they are most proud of from the last year. Beginning in 2019, with 2018 citations, the Baylor University Libraries has created an online and interactive display using Power BI.
 
-Live Power BI Database: https://sites.baylor.edu/creations/
+Live Power BI Database: https://sites.baylor.edu/creations/ - [standalone](https://app.powerbi.com/view?r=eyJrIjoiMWNlMTQ4NGQtYjhjOC00YjMzLTg4ZmItYTkwNDAzYjZmYzViIiwidCI6IjIyZDJmYjM1LTI1NmEtNDU5Yi1iY2Y0LWRjMjNkNDJkYzBhNCIsImMiOjN9)
 
 Files:
 
